@@ -1,2 +1,2 @@
 # Maze
-# Maze
+@autor Tamir Yurovskiy
