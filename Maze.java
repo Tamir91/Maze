@@ -12,14 +12,7 @@ public class Maze
     private final static int MAX_COLUMN = 5;
     private final static char OPEN = '-';
     private final static char WAY_OUT = 's';
-    /*
-    private static char maze [][] =
-    { {'#' , '#' , '#' , '-' , '#'},
-    {'#' , '-' , '#' , '-' , '#'},
-    {'#' , '-' , '-' , '-' , '#'},
-    {'#' , '-' , '#' , '-' , '-'},
-    {'#' , '#' , '#' , '#' , '#'}, } ;
-     */
+ 
     /**
      * Returns true if position is on the outline,
      * else – returns false.
